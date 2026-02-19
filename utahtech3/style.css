@@ -1,6 +1,6 @@
         body { background-color: #FFFFFF ; font-family: Verdana ; color:#666666 ; background-image: linear-gradient(to bottom, #eeeeee, #ffffff) ; background-attachment: fixed }
         header { background: #003058; font-family: Georgia ; color:#FFFFFF}
-        h1 { line-height: 140% ; padding: .5rem ; background-image: url(utahtechlogo.svg) ; background-position: right ; background-origin: content-box ; margin-bottom: 0 ; padding-left: 1em ; background-repeat: no-repeat;}
+        h1 { line-height: 140% ; padding: .5rem ; background-image: url(utahtechlogo.svg) ; background-position: right ; background-origin: content-box ; margin-bottom: 0 ; padding-left: 1em ; background-repeat: no-repeat }
         nav { font-weight: bold ; background-color: #F3F3F3 ; padding-top: 0.5rem ; padding-bottom: 0.5rem ; padding-right: 0.5rem ; padding-left: 2rem }
         nav a { text-decoration: none }
         h2 { color: #424242 ; font-family: Georgia }
